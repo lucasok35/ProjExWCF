@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\AcessoDados.dll
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\Entidade.dll
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\AcessoDados.pdb
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\bin\Debug\Entidade.pdb
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucas\source\repos\ProjExWCF\Negocio\obj\Debug\Negocio.pdb

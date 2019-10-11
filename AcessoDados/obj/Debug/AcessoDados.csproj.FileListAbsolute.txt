@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\bin\Debug\Entidade.dll
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\bin\Debug\Entidade.pdb
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.csproj.CopyComplete
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\lucas\source\repos\ProjExWCF\AcessoDados\obj\Debug\AcessoDados.pdb
